@@ -1,0 +1,6 @@
+
+.vs/
+obj/
+bin/
+
+Signaling Server/node_modules/
